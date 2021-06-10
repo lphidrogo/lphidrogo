@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lyndita
-- 👀 I’m interested in ...coding and gaming!
+- 👀 I’m interested in ...coding,software development and gaming!
 - 🌱 I’m currently learning ...React and on my way to learn other goodies!
 - 💞️ I’m looking to collaborate on ...projects, portfolios, and coding!coding!coding!
 - 📫 Reach me on ...Slack@lyndita and Discord @lynditawbdv
